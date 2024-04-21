@@ -1,0 +1,2 @@
+# simplegpttarot
+Tarot Card Reader
